@@ -1,6 +1,6 @@
 {
   "name": "macs-seo-module",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This package provides functions to send page view information to the google analytics tracking id currently installed on the site",
   "main": "index.js",
   "author": "Macdonald Robinson",
@@ -11,5 +11,16 @@
     "analytics",
     "pageview",
     "tracking"
-  ]
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MacdonaldRobinson/macs-seo-module.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MacdonaldRobinson/macs-seo-module/issues"
+  },
+  "homepage": "https://github.com/MacdonaldRobinson/macs-seo-module#readme"
 }
