@@ -1,0 +1,15 @@
+{
+  "name": "macs-seo-module",
+  "version": "1.0.4",
+  "description": "This package provides functions to send page view information to the google analytics tracking id currently installed on the site",
+  "main": "index.js",
+  "author": "Macdonald Robinson",
+  "license": "ISC",
+  "keywords": [
+    "seo",
+    "google",
+    "analytics",
+    "pageview",
+    "tracking"
+  ]
+}
