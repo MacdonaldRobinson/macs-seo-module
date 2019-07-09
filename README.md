@@ -1,6 +1,6 @@
 This package provides functions to send pageview information to the google analytics tracking id currently installed on the site.
 
-Unlike some of the other scripts that require you to hard code the google analytics tracking ID, it will auto detect the Google Analytics Tracking ID, so it could be installed either via Google Tag Manager ( gtag ) or Just directly via the Google Analytics script.
+Unlike some of the other modules that require you to hard code the google analytics tracking ID, this module will auto detect the Google Analytics Tracking ID currently installed on the site either via the Google Tag Manager ( gtag ) script or  directly via the Google Analytics script.
 
 ```javascript
 
